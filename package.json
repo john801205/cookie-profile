@@ -1,8 +1,8 @@
 {
-  "title": "My Cookie Addon",
-  "name": "my-cookie-addon",
+  "title": "cookie-profile",
+  "name": "cookie-profile",
   "version": "0.0.1",
-  "description": "A basic add-on",
+  "description": "A basic add-on to protect your privacy",
   "main": "lib/main.js",
   "author": "",
   "engines": {
@@ -12,6 +12,5 @@
   "license": "MIT",
   "keywords": [
     "jetpack"
-  ],
-  "dependencies": {}
+  ]
 }
